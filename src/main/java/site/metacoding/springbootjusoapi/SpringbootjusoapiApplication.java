@@ -1,0 +1,13 @@
+package site.metacoding.springbootjusoapi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootjusoapiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringbootjusoapiApplication.class, args);
+	}
+
+}
